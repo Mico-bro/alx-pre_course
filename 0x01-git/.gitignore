@@ -1,0 +1,3 @@
+The .gitignore file allows you to exclude files from being checked into the repository. The file contains globbing patterns that describe which files and directories should be ignored.
+
+gitignore.io is an online service that allows you to generate .gitignore files for your operating system, programming language, or IDE.
